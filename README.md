@@ -102,11 +102,7 @@ Stay tuned for innovative mobile applications that showcase:*
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:faheemabbas766@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=About.me&logoColor=white&labelColor=667EEA)](https://your-portfolio-link.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/faheemabbas766)
-
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=faheemabbas766&style=for-the-badge&color=667eea&labelColor=000000" alt="Profile Views" />
-
 </div>
 
 ---
