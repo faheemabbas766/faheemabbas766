@@ -101,6 +101,7 @@ Stay tuned for innovative mobile applications that showcase:*
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:faheemabbas766@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=About.me&logoColor=white&labelColor=667EEA)](https://faheemabbas766.github.io/)
 <br/>
+**⭐ If my work inspires you, show some love with a star! ⭐**
 </div>
 
 ---
@@ -112,7 +113,4 @@ Stay tuned for innovative mobile applications that showcase:*
 **🎯 Building tomorrow's mobile experiences, today • 🚀 GetX + MVVM + Innovation**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer&text=&fontSize=0" width="100%"/>
-
-**⭐ If my work inspires you, show some love with a star! ⭐**
-
 </div>
