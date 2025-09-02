@@ -3,7 +3,7 @@
 # 🚀 Faheem Abbas
 ### `Flutter Architect • Mobile Innovation Engineer • Clean Code Evangelist`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=&fontSize=0" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=400&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🎯+Flutter+%7C+GetX+%7C+MVVM+Specialist;🚀+Building+Scalable+Mobile+Solutions;💡+Clean+Architecture+%2B+State+Management;🌟+Innovation+Through+Code)](https://git.io/typing-svg)
 
