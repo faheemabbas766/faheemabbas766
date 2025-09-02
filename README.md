@@ -77,22 +77,6 @@ final myApproach = {
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-*🚧 **Exciting Flutter projects with GetX + MVVM architecture coming soon!**  
-Stay tuned for innovative mobile applications that showcase:*
-- **Advanced State Management** with GetX
-- **Clean Architecture** implementation
-- **Beautiful UI/UX** design
-- **Performance Optimization**
-- **Real-world Problem Solving**
-
-</div>
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 <div align="center">
