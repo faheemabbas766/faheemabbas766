@@ -84,54 +84,6 @@ class FaheemAbbas extends FlutterArchitect
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faheemabbas766&show_icons=true&theme=react&bg_color=0D1117&title_color=667EEA&icon_color=667EEA&text_color=FFFFFF&border_color=667EEA&include_all_commits=true&count_private=true" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemabbas766&layout=compact&langs_count=10&theme=react&bg_color=0D1117&title_color=667EEA&text_color=FFFFFF&border_color=667EEA" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemabbas766&theme=react&background=0D1117&stroke=667EEA&ring=667EEA&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=faheemabbas766&bg_color=0D1117&color=667EEA&line=667EEA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-### 🚀 **Core Competencies**
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🎯 **GetX Mastery**
-- **State Management** with Reactive Programming
-- **Dependency Injection** & Service Locator
-- **Route Management** with Navigation 2.0
-- **Internationalization** & Theme Management
-- **Memory Management** & Performance Optimization
-
-</td>
-<td width="50%">
-
-#### 🏛️ **MVVM Architecture**
-- **Clean Separation** of Concerns
-- **Testable Code** with Unit Testing
-- **Repository Pattern** Implementation
-- **Use Cases** & Domain Driven Design
-- **Error Handling** & State Management
-
-</td>
-</tr>
-</table>
-
----
-
 ## 🏆 Achievement Gallery
 
 <div align="center">
