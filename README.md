@@ -42,16 +42,6 @@ class FaheemAbbas extends FlutterArchitect
 
 ---
 
-## 🏆 Achievement Gallery
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=faheemabbas766&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=6" />
-
-</div>
-
----
-
 ## 💼 Project Architecture Example
 
 <details>
