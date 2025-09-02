@@ -42,48 +42,6 @@ class FaheemAbbas extends FlutterArchitect
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### 📱 **Core Technologies**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=02569B)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&labelColor=0175C2)
-![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white&labelColor=9C27B0)
-
-### 🏗️ **Architecture Patterns**
-![MVVM](https://img.shields.io/badge/MVVM-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white&labelColor=FF6B6B)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4ECDC4?style=for-the-badge&logo=clean&logoColor=white&labelColor=4ECDC4)
-![Repository Pattern](https://img.shields.io/badge/Repository_Pattern-45B7D1?style=for-the-badge&logo=database&logoColor=white&labelColor=45B7D1)
-
-### 🔄 **State Management**
-![GetX](https://img.shields.io/badge/GetX-9C27B0?style=for-the-badge&logo=flutter&logoColor=white)
-![BLoC](https://img.shields.io/badge/BLoC-FF9800?style=for-the-badge&logo=bloc&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-2196F3?style=for-the-badge&logo=provider&logoColor=white)
-![Riverpod](https://img.shields.io/badge/Riverpod-00BCD4?style=for-the-badge&logo=riverpod&logoColor=white)
-
-### 🗄️ **Backend & Database**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-FFA000?style=for-the-badge&logo=hive&logoColor=white)
-
-### 🎨 **UI/UX & Design**
-![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-
-### 🔧 **Tools & Platform**
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
 ## 🏆 Achievement Gallery
 
 <div align="center">
