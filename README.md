@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Faheem Abbas
+# Hi there, I'm Faheem Abbas 👋
 ### `Flutter Architect • Mobile Innovation Engineer • Clean Code Evangelist`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=header&text=&fontSize=0" width="100%" alt=""/>
