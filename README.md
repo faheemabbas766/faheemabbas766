@@ -3,7 +3,7 @@
 # 🚀 Faheem Abbas
 ### `Flutter Architect • Mobile Innovation Engineer • Clean Code Evangelist`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=&fontSize=0" width="100%" alt=""/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=667EEA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=🎯+Flutter+%7C+GetX+%7C+MVVM+Specialist;🚀+Building+Scalable+Mobile+Solutions;💡+Clean+Architecture+%2B+State+Management;🌟+Innovation+Through+Code)](https://git.io/typing-svg)
 
@@ -36,7 +36,7 @@ class FaheemAbbas extends FlutterArchitect
 }
 ```
 
-🎯 **Current Focus:** Building high-performance Flutter apps with **GetX** state management and **MVVM architecture**  
+🎯 **Current Focus:** Building high-performance Flutter apps with **OOP** and **MVVM architecture**  
 🌱 **Learning:** Advanced Flutter patterns, microservices, and cloud integration  
 💡 **Mission:** Transforming ideas into elegant, scalable mobile solutions
 
@@ -103,30 +103,6 @@ class FaheemAbbas extends FlutterArchitect
 
 ---
 
-## 🎯 Expertise Showcase
-
-<div align="center">
-
-### 🏗️ **Architecture Excellence**
-```mermaid
-graph TB
-    A[📱 UI Layer - Flutter Widgets] --> B[🎭 Presentation Layer - Controllers]
-    B --> C[💼 Domain Layer - Use Cases]
-    C --> D[🗄️ Data Layer - Repositories]
-    
-    subgraph "GetX State Management"
-        E[GetxController]
-        F[Obx Widgets]
-        G[Reactive Variables]
-    end
-    
-    B --> E
-    E --> F
-    E --> G
-```
-
-</div>
-
 ### 🚀 **Core Competencies**
 
 <table>
@@ -170,77 +146,6 @@ graph TB
 
 <details>
 <summary><b>🎨 Click to see Clean Architecture with GetX Implementation</b></summary>
-
-```dart
-// 📱 Presentation Layer - Controller
-class UserController extends GetxController {
-  final _userUseCase = Get.find<GetUserUseCase>();
-  
-  final _user = Rxn<User>();
-  final _isLoading = false.obs;
-  final _error = ''.obs;
-  
-  User? get user => _user.value;
-  bool get isLoading => _isLoading.value;
-  String get error => _error.value;
-  
-  @override
-  void onInit() {
-    super.onInit();
-    fetchUser();
-  }
-  
-  Future<void> fetchUser() async {
-    try {
-      _isLoading.value = true;
-      _error.value = '';
-      
-      final result = await _userUseCase.execute();
-      
-      result.fold(
-        (failure) => _error.value = failure.message,
-        (user) => _user.value = user,
-      );
-    } finally {
-      _isLoading.value = false;
-    }
-  }
-}
-
-// 💼 Domain Layer - Use Case
-class GetUserUseCase {
-  final UserRepository _repository;
-  
-  GetUserUseCase(this._repository);
-  
-  Future<Either<Failure, User>> execute() async {
-    return await _repository.getUser();
-  }
-}
-
-// 🗄️ Data Layer - Repository Implementation
-class UserRepositoryImpl implements UserRepository {
-  final UserRemoteDataSource _remoteDataSource;
-  final UserLocalDataSource _localDataSource;
-  
-  UserRepositoryImpl(this._remoteDataSource, this._localDataSource);
-  
-  @override
-  Future<Either<Failure, User>> getUser() async {
-    try {
-      final user = await _remoteDataSource.getUser();
-      await _localDataSource.cacheUser(user);
-      return Right(user);
-    } catch (e) {
-      final cachedUser = await _localDataSource.getCachedUser();
-      if (cachedUser != null) {
-        return Right(cachedUser);
-      }
-      return Left(ServerFailure(e.toString()));
-    }
-  }
-}
-```
 
 </details>
 
