@@ -166,14 +166,6 @@ specializes_in:
 
 ---
 
-## Contribution Activity
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=faheemabbas766&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=94A3B8&area=true&hide_border=true" alt="GitHub activity graph" />
-</div>
-
----
-
 ## Let's Build
 
 If you want someone who can build polished mobile apps, improve codebase quality, and work across Flutter, Android, iOS, and current AI-native engineering workflows, connect with me.
