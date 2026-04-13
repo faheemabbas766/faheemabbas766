@@ -21,12 +21,13 @@ Cross-platform delivery, native mobile readiness, clean UX, scalable codebases, 
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=faheemabbas766&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=E2E8F0" alt="GitHub stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=faheemabbas766&hide_border=true&background=0D1117&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faheemabbas766&theme=github_dark" alt="GitHub profile summary" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faheemabbas766&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" alt="Top languages" />
+  <img height="170" src="https://streak-stats.demolab.com?user=faheemabbas766&hide_border=true&background=0D1117&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheemabbas766&theme=github_dark" alt="Repositories per language" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faheemabbas766&theme=github_dark" alt="Most commit language" />
 </div>
 
 <div align="center">
