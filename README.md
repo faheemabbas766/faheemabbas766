@@ -1,16 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:1d4ed8,100:06b6d4&text=Faheem%20Abbas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Application%20Developer%20%7C%20Flutter%20Architect%20%7C%20AI-Native%20Builder&descSize=18&descAlignY=58" alt="Faheem Abbas banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1d4ed8,100:06b6d4&text=Faheem%20Abbas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%2B%20Android%20%2B%20iOS%20%7C%20AI-Native%20Builder&descSize=18&descAlignY=58" alt="Faheem Abbas banner" />
 
-# Building Modern Mobile Products Across Flutter, Android, And iOS
+# Mobile Systems. Premium UX. Clean Delivery.
 
 <p>
-Cross-platform delivery, native mobile readiness, clean UX, scalable codebases, AI tools, agentic coding, and developer automation for modern product teams.
+I build modern mobile applications across Flutter, Android, and iOS with strong architecture, polished product thinking, AI tools, agentic coding, and developer automation.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faheemabbas766.github.io/)
+[![Portfolio Site](https://img.shields.io/badge/Portfolio%20Site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://faheemabbas766.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemabbas766)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemabbas766@gmail.com)
+
+<br />
+
+![Open to mobile projects](https://img.shields.io/badge/Open%20to-Mobile%20Projects-111827?style=flat-square&labelColor=0ea5e9&color=111827)
+![Delivery mode](https://img.shields.io/badge/Delivery-Cross--platform%20%2B%20Native-111827?style=flat-square&labelColor=1d4ed8&color=111827)
+![Workflow](https://img.shields.io/badge/Workflow-AI%20Tools%20%2B%20Automation-111827?style=flat-square&labelColor=f59e0b&color=111827)
 
 <br />
 
@@ -42,6 +48,12 @@ I build modern mobile products with strong architecture, current tooling, AI-ass
 
 > I do not just build app screens. I build mobile systems across Flutter, Android, and iOS with engineering workflows that are meant to ship.
 
+<p align="center">
+  <strong>Cross-platform when it makes sense.</strong>
+  <strong>Native when the product needs it.</strong>
+  <strong>AI-assisted where it creates leverage.</strong>
+</p>
+
 ---
 
 ## What Makes Me Different
@@ -49,8 +61,8 @@ I build modern mobile products with strong architecture, current tooling, AI-ass
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Architecture First</h3>
-      <p>I design mobile apps with clear layers, scalable modules, maintainable state management, and code that can survive real growth.</p>
+      <h3>System-Level Thinking</h3>
+      <p>I design mobile apps with clear layers, scalable modules, maintainable state management, and codebases that stay clean as features grow.</p>
     </td>
     <td width="50%" valign="top">
       <h3>Cross-Platform + Native</h3>
@@ -59,8 +71,8 @@ I build modern mobile products with strong architecture, current tooling, AI-ass
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Product Thinking</h3>
-      <p>I care about the full product experience: performance, UX polish, maintainability, and how quickly a team can keep shipping.</p>
+      <h3>Premium Product Taste</h3>
+      <p>I care about the full product experience: performance, UX polish, maintainability, and software that feels intentional instead of assembled.</p>
     </td>
     <td width="50%" valign="top">
       <h3>AI-Native Workflow</h3>
@@ -142,6 +154,15 @@ specializes_in:
 - combining clean mobile architecture with modern AI workflows
 - improving delivery speed through AI tools and automation
 - growing from mobile specialist into product engineering and technical systems
+
+---
+
+## Working Style
+
+- architecture that stays maintainable as products grow
+- interfaces that feel polished, premium, and user-ready
+- cross-platform delivery where it is efficient and native execution where it matters
+- AI-assisted workflows used with judgment instead of shortcuts
 
 ---
 
