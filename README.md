@@ -8,7 +8,7 @@
 Cross-platform delivery, native mobile readiness, clean UX, scalable codebases, AI tools, agentic coding, and developer automation for modern product teams.
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faheemabbas766.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F59E0B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://faheemabbas766.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemabbas766)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemabbas766@gmail.com)
 
@@ -28,10 +28,6 @@ Cross-platform delivery, native mobile readiness, clean UX, scalable codebases, 
   <img height="170" src="https://streak-stats.demolab.com?user=faheemabbas766&hide_border=true&background=0D1117&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheemabbas766&theme=github_dark" alt="Repositories per language" />
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faheemabbas766&theme=github_dark" alt="Most commit language" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=faheemabbas766&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=94A3B8&area=true&hide_border=true" alt="GitHub activity graph" />
 </div>
 
 ---
@@ -146,6 +142,14 @@ specializes_in:
 - combining clean mobile architecture with modern AI workflows
 - improving delivery speed through AI tools and automation
 - growing from mobile specialist into product engineering and technical systems
+
+---
+
+## Contribution Activity
+
+<div align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=faheemabbas766&bg_color=0D1117&color=E2E8F0&line=38BDF8&point=94A3B8&area=true&hide_border=true" alt="GitHub activity graph" />
+</div>
 
 ---
 
