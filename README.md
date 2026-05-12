@@ -8,7 +8,7 @@
 I build modern mobile applications across Flutter, Android, and iOS with strong architecture, polished product thinking, AI tools, agentic coding, and developer automation.
 </p>
 
-[![Portfolio Site](https://img.shields.io/badge/Portfolio%20Site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://faheemabbas766.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio%20Site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://faheemabbas766.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemabbas766)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemabbas766@gmail.com)
 
