@@ -38,7 +38,7 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 ---
 
-## Open Source Proof
+## Flutter Contributions
 
 <div align="center">
 
