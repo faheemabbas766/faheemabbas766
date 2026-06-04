@@ -38,6 +38,34 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 ---
 
+## Open Source Signal
+
+<div align="center">
+
+[![Flutter Contributor](https://img.shields.io/badge/Flutter-Contributor-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/186184)
+[![Merged PR](https://img.shields.io/badge/Merged%20PR-flutter%2Fflutter-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/186184)
+[![Approved PRs](https://img.shields.io/badge/Approved%20PRs-Flutter%20Ecosystem-f59e0b?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/pulls?q=is%3Apr+author%3Afaheemabbas766+org%3Aflutter)
+
+</div>
+
+I contribute to the official Flutter ecosystem across framework, tool, and package repositories.
+
+**Merged**
+
+- [flutter/flutter#186184](https://github.com/flutter/flutter/pull/186184): fixed `flutter run` device selection so multi-digit device options work when 10+ devices are available.
+
+**Approved / In Progress**
+
+- [flutter/flutter#186174](https://github.com/flutter/flutter/pull/186174): cleaned up `NavigationRail` with Dart null-aware collection elements.
+- [flutter/packages#11820](https://github.com/flutter/packages/pull/11820): removes stale `video_player_web` compatibility helpers after `package:web` API support.
+
+**Active Contributions**
+
+- [flutter/core-packages#12](https://github.com/flutter/core-packages/pull/12): documents `vector_math` `Plane` API behavior.
+- [flutter/packages#11662](https://github.com/flutter/packages/pull/11662): documents native `cross_file` MIME type behavior.
+
+---
+
 ## Profile Signal
 
 This profile is built to say one thing clearly:
