@@ -40,18 +40,6 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 ## Flutter Contributions
 
-<div align="center">
-
-### Flutter Contributor
-
-Merged and active work across official Flutter repositories.
-
-[![Flutter](https://img.shields.io/badge/Flutter-Contributor-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/flutter/flutter/pull/186184)
-[![Merged](https://img.shields.io/badge/Merged-PR-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/flutter/flutter/pull/186184)
-[![Active](https://img.shields.io/badge/Active-PRs-f59e0b?style=for-the-badge&logo=github&logoColor=111827)](https://github.com/pulls?q=is%3Apr+author%3Afaheemabbas766+org%3Aflutter)
-
-</div>
-
 <table>
   <tr>
     <td width="33%" valign="top">
