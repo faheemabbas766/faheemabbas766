@@ -61,18 +61,6 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 ---
 
-<div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faheemabbas766&theme=github_dark" alt="GitHub profile summary" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=faheemabbas766&hide_border=true&background=0D1117&stroke=334155&ring=38BDF8&fire=38BDF8&currStreakLabel=E2E8F0&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=94A3B8" alt="GitHub streak" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faheemabbas766&theme=github_dark" alt="Repositories per language" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faheemabbas766&theme=github_dark" alt="Most commit language" />
-</div>
-
----
-
 ## Profile Signal
 
 This profile is built to say one thing clearly:
