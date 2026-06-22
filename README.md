@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1d4ed8,100:06b6d4&text=Faheem%20Abbas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20Flutter%20%2B%20Android%20%2B%20iOS%20%7C%20AI-Native%20Builder&descSize=18&descAlignY=58" alt="Faheem Abbas banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:1d4ed8,100:06b6d4&text=Faheem%20Abbas&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Flutter%20Contributor%20%7C%20Flutter%20%2B%20Android%20%2B%20iOS%20%7C%20AI-Native%20Builder&descSize=18&descAlignY=58" alt="Faheem Abbas banner" />
 
-# Mobile Systems. Premium UX. Clean Delivery.
+# Flutter Contributor. Mobile Systems. Clean Delivery.
 
 <p>
 I build modern mobile applications across Flutter, Android, and iOS with strong architecture, polished product thinking, AI tools, agentic coding, and developer automation.
@@ -26,48 +26,56 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 ---
 
-## Flutter Contributions
+## Flutter Ecosystem Contributor
+
+<p>
+I contribute to Flutter repositories used by developers worldwide: framework, tooling, packages, and core libraries.
+</p>
+
+![Flutter merged](https://img.shields.io/badge/Flutter%20Merged-2-0f172a?style=flat-square&labelColor=0ea5e9)
+![Flutter issue closed](https://img.shields.io/badge/Upstream%20Issue%20Closed-1-0f172a?style=flat-square&labelColor=16a34a)
+![Flutter active](https://img.shields.io/badge/Flutter%20Active-4-0f172a?style=flat-square&labelColor=f59e0b)
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>Merged</h3>
-      <p><strong>Flutter Tool</strong></p>
-      <p>Fixed <code>flutter run</code> device selection for setups with 10+ devices.</p>
-      <p><a href="https://github.com/flutter/flutter/pull/186184">flutter/flutter#186184</a></p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Approved</h3>
+      <h3>Merged Impact</h3>
       <p><strong>Framework + Packages</strong></p>
-      <p>Reviewed and approved work across Material framework code and web package maintenance.</p>
+      <p>Two merged contributions across Flutter tooling and Flutter packages.</p>
       <p>
-        <a href="https://github.com/flutter/flutter/pull/186174">flutter/flutter#186174</a><br />
+        <a href="https://github.com/flutter/flutter/pull/186184">flutter/flutter#186184</a><br />
         <a href="https://github.com/flutter/packages/pull/11820">flutter/packages#11820</a>
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>Active</h3>
-      <p><strong>Docs + API Clarity</strong></p>
-      <p>Contributing documentation improvements for core package behavior and developer expectations.</p>
+      <h3>Issue-Solving Impact</h3>
+      <p><strong>Public review, real outcome</strong></p>
+      <p>One merged package contribution also closed its linked upstream Flutter issue.</p>
       <p>
+        <a href="https://github.com/flutter/packages/pull/11820">flutter/packages#11820</a><br />
+        <a href="https://github.com/flutter/flutter/issues/187430">flutter/flutter#187430</a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Active Pipeline</h3>
+      <p><strong>Core Packages + API Docs</strong></p>
+      <p>Ongoing work across framework cleanup, <code>vector_math</code>, and package documentation clarity.</p>
+      <p>
+        <a href="https://github.com/flutter/flutter/pull/186174">flutter/flutter#186174</a><br />
         <a href="https://github.com/flutter/core-packages/pull/12">flutter/core-packages#12</a><br />
+        <a href="https://github.com/flutter/core-packages/pull/22">flutter/core-packages#22</a><br />
         <a href="https://github.com/flutter/packages/pull/11662">flutter/packages#11662</a>
       </p>
     </td>
   </tr>
 </table>
-
-> Open source is where I sharpen engineering judgment against real review standards, not just personal projects.
+> I contribute where the review bar is public, the standards are real, and the impact is visible.
 
 ---
 
 ## Profile Signal
 
-This profile is built to say one thing clearly:
-
-I do not work with an outdated developer mindset.
-
-I build modern mobile products with strong architecture, current tooling, AI-assisted execution, agentic coding workflows, and a delivery style that is meant for real products, not demo screens.
+This profile is built to say one thing clearly: I build modern mobile products with strong architecture, current tooling, AI-assisted execution, and a delivery style meant for real products, not demo screens.
 
 > I do not just build app screens. I build mobile systems across Flutter, Android, and iOS with engineering workflows that are meant to ship.
 
@@ -127,8 +135,9 @@ The edge is not just speed. The edge is better focus, better iteration, and more
 
 ```yaml
 name: Faheem Abbas
-role: Mobile application developer + AI-native product builder
+role: Mobile application developer + Flutter contributor + AI-native product builder
 education: Computer Science @ Arid Agriculture University
+currently_at: Invotyx
 works_like:
   - architecture first
   - product minded
