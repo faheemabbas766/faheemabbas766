@@ -14,13 +14,13 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 
 <br />
 
-![Open to mobile projects](https://img.shields.io/badge/Open%20to-Mobile%20Projects-111827?style=flat-square&labelColor=0ea5e9&color=111827)
-![Delivery mode](https://img.shields.io/badge/Delivery-Cross--platform%20%2B%20Native-111827?style=flat-square&labelColor=1d4ed8&color=111827)
+![Mobile focus](https://img.shields.io/badge/Focus-Mobile%20Products-111827?style=flat-square&labelColor=0ea5e9&color=111827)
+![Delivery mode](https://img.shields.io/badge/Delivery-Flutter%20%2B%20Android%20%2B%20iOS%20Workflows-111827?style=flat-square&labelColor=1d4ed8&color=111827)
 ![Workflow](https://img.shields.io/badge/Workflow-AI%20Tools%20%2B%20Automation-111827?style=flat-square&labelColor=f59e0b&color=111827)
 
 <br />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=Flutter+%2B+Android+%2B+iOS+mobile+products;Cross-platform+when+it+makes+sense%2C+native+when+needed;AI+tools+%2B+agentic+coding+%2B+developer+automation" alt="Typing introduction" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=920&lines=Flutter+%2B+Android+%2B+iOS+mobile+workflows;Cross-platform+mobile+delivery+with+Android+release+depth;AI+tools+%2B+agentic+coding+%2B+developer+automation" alt="Typing introduction" />
 
 </div>
 
@@ -81,7 +81,7 @@ This profile is built to say one thing clearly: I build modern mobile products w
 
 <p align="center">
   <strong>Cross-platform when it makes sense.</strong>
-  <strong>Native when the product needs it.</strong>
+  <strong>Android depth where the product needs it.</strong>
   <strong>AI-assisted where it creates leverage.</strong>
 </p>
 
@@ -96,8 +96,8 @@ This profile is built to say one thing clearly: I build modern mobile products w
       <p>I design mobile apps with clear layers, scalable modules, maintainable state management, and codebases that stay clean as features grow.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>Cross-Platform + Native</h3>
-      <p>I work comfortably across Flutter and can also take on native Android and iOS implementation when the product or client needs it.</p>
+      <h3>Cross-Platform + Android Depth</h3>
+      <p>I work comfortably across Flutter mobile delivery, Android implementation, and iOS-facing Flutter release workflows.</p>
     </td>
   </tr>
   <tr>
@@ -147,9 +147,9 @@ works_like:
 specializes_in:
   - Flutter development
   - Android app development
-  - iOS app development
+  - iOS-facing Flutter delivery
   - cross-platform mobile delivery
-  - native mobile implementation
+  - Android-focused native implementation
   - mobile app architecture
   - clean architecture
   - MVVM
@@ -164,7 +164,7 @@ specializes_in:
 
 **Mobile**
 
-`Flutter` `Android` `iOS` `Cross-Platform` `Native Mobile` `Dart` `Material 3` `REST APIs`
+`Flutter` `Android` `iOS Workflows` `Cross-Platform` `Dart` `Material 3` `REST APIs`
 
 **Architecture**
 
@@ -182,7 +182,7 @@ specializes_in:
 
 ## Current Focus
 
-- building mobile products across Flutter and native platforms
+- building mobile products across Flutter, Android, and iOS-facing workflows
 - combining clean mobile architecture with modern AI workflows
 - improving delivery speed through AI tools and automation
 - growing from mobile specialist into product engineering and technical systems
@@ -193,7 +193,7 @@ specializes_in:
 
 - architecture that stays maintainable as products grow
 - interfaces that feel polished, premium, and user-ready
-- cross-platform delivery where it is efficient and native execution where it matters
+- cross-platform delivery where it is efficient, with Android depth where native execution matters
 - AI-assisted workflows used with judgment instead of shortcuts
 
 ---
