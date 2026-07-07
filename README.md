@@ -87,6 +87,19 @@ This profile is built to say one thing clearly: I build modern mobile products w
 
 ---
 
+## Selected Public Proof
+
+| Signal | Why it matters |
+| --- | --- |
+| [Portfolio](https://github.com/faheemabbas766/faheemabbas766.github.io) | Live project portfolio with store links, screenshots, and public mobile delivery proof |
+| [Flutter framework contributions](https://github.com/flutter/flutter/pulls?q=is%3Apr+author%3Afaheemabbas766) | Public review history in a high-quality open-source codebase |
+| [Flutter packages contributions](https://github.com/flutter/packages/pulls?q=is%3Apr+author%3Afaheemabbas766) | Package-level Flutter ecosystem work with merged contribution history |
+| [Google vector_math work](https://github.com/google/vector_math.dart/pulls?q=is%3Apr+author%3Afaheemabbas766) | Core Dart package contribution signal |
+
+For private/client mobile products, see the portfolio and LinkedIn project section for shipped app store work, including Android TV, invoicing, AI assistant, delivery, and social/video products.
+
+---
+
 ## What Makes Me Different
 
 <table>
