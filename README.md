@@ -37,7 +37,7 @@ I am a Flutter contributor from Pakistan with merged pull requests in Flutter ec
 <!-- This section is maintained by scripts/update_flutter_prs.py. -->
 
 ![Flutter Merged](https://img.shields.io/badge/Flutter%20Merged-6-0f172a?style=flat-square&labelColor=0ea5e9)
-![Flutter Active](https://img.shields.io/badge/Flutter%20Active-3-0f172a?style=flat-square&labelColor=f59e0b)
+![Flutter Active](https://img.shields.io/badge/Flutter%20Active-5-0f172a?style=flat-square&labelColor=f59e0b)
 
 ### Merged Contributions
 
@@ -50,6 +50,8 @@ I am a Flutter contributor from Pakistan with merged pull requests in Flutter ec
 
 ### Active Contributions
 
+- [`flutter/packages#12316`](https://github.com/flutter/packages/pull/12316) - \[tool\] Enforce README package table order - **Ready for review**
+- [`flutter/packages#12315`](https://github.com/flutter/packages/pull/12315) - \[google_maps_flutter\] Document tile cache flicker - **Ready for review**
 - [`flutter/flutter#189493`](https://github.com/flutter/flutter/pull/189493) - \[flutter_tools\] Avoid duplicate Swift package binary targets - **Ready for review**
 - [`flutter/flutter#189488`](https://github.com/flutter/flutter/pull/189488) - \[flutter_tools\] Use resolved application ID for app link settings - **Ready for review**
 - [`flutter/flutter#186174`](https://github.com/flutter/flutter/pull/186174) - Use null-aware elements in NavigationRail - **Draft**
