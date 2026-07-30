@@ -9,6 +9,7 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 </p>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio%20Site-FBBF24?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://faheemabbas766.github.io/)
+[![Flutter Contributor](https://img.shields.io/badge/Flutter%20Contributor-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://faheemabbas766.github.io/flutter-contributors-pakistan.html)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemabbas766)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faheemabbas766@gmail.com)
 
@@ -29,46 +30,33 @@ I build modern mobile applications across Flutter, Android, and iOS with strong 
 ## Flutter Ecosystem Contributor
 
 <p>
-I contribute to Flutter repositories used by developers worldwide: framework, tooling, packages, and core libraries.
+I am a Flutter contributor from Pakistan with merged pull requests in Flutter ecosystem repositories used by developers worldwide, including <code>flutter/flutter</code> and <code>flutter/packages</code>.
 </p>
 
-![Flutter merged](https://img.shields.io/badge/Flutter%20Merged-2-0f172a?style=flat-square&labelColor=0ea5e9)
-![Flutter issue closed](https://img.shields.io/badge/Upstream%20Issue%20Closed-1-0f172a?style=flat-square&labelColor=16a34a)
-![Flutter active](https://img.shields.io/badge/Flutter%20Active-4-0f172a?style=flat-square&labelColor=f59e0b)
+<!-- FLUTTER_PRS:START -->
+<!-- This section is maintained by scripts/update_flutter_prs.py. -->
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>Merged Impact</h3>
-      <p><strong>Framework + Packages</strong></p>
-      <p>Two merged contributions across Flutter tooling and Flutter packages.</p>
-      <p>
-        <a href="https://github.com/flutter/flutter/pull/186184">flutter/flutter#186184</a><br />
-        <a href="https://github.com/flutter/packages/pull/11820">flutter/packages#11820</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Issue-Solving Impact</h3>
-      <p><strong>Public review, real outcome</strong></p>
-      <p>One merged package contribution also closed its linked upstream Flutter issue.</p>
-      <p>
-        <a href="https://github.com/flutter/packages/pull/11820">flutter/packages#11820</a><br />
-        <a href="https://github.com/flutter/flutter/issues/187430">flutter/flutter#187430</a>
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>Active Pipeline</h3>
-      <p><strong>Core Packages + API Docs</strong></p>
-      <p>Ongoing work across framework cleanup, <code>vector_math</code>, and package documentation clarity.</p>
-      <p>
-        <a href="https://github.com/flutter/flutter/pull/186174">flutter/flutter#186174</a><br />
-        <a href="https://github.com/flutter/core-packages/pull/12">flutter/core-packages#12</a><br />
-        <a href="https://github.com/flutter/core-packages/pull/22">flutter/core-packages#22</a><br />
-        <a href="https://github.com/flutter/packages/pull/11662">flutter/packages#11662</a>
-      </p>
-    </td>
-  </tr>
-</table>
+![Flutter Merged](https://img.shields.io/badge/Flutter%20Merged-6-0f172a?style=flat-square&labelColor=0ea5e9)
+![Flutter Active](https://img.shields.io/badge/Flutter%20Active-3-0f172a?style=flat-square&labelColor=f59e0b)
+
+### Merged Contributions
+
+- [`flutter/core-packages#22`](https://github.com/flutter/core-packages/pull/22) - \[vector_math\] Document geometry filter APIs
+- [`flutter/flutter#188372`](https://github.com/flutter/flutter/pull/188372) - Parse AndroidX property in gradle.properties
+- [`flutter/core-packages#12`](https://github.com/flutter/core-packages/pull/12) - Document vector_math Plane API
+- [`flutter/packages#11662`](https://github.com/flutter/packages/pull/11662) - \[cross_file\] Document native mimeType behavior
+- [`flutter/packages#11820`](https://github.com/flutter/packages/pull/11820) - \[video_player_web\] Remove stale package:web tweaks
+- [`flutter/flutter#186184`](https://github.com/flutter/flutter/pull/186184) - Allow selecting multi-digit device options
+
+### Active Contributions
+
+- [`flutter/flutter#189493`](https://github.com/flutter/flutter/pull/189493) - \[flutter_tools\] Avoid duplicate Swift package binary targets - **Ready for review**
+- [`flutter/flutter#189488`](https://github.com/flutter/flutter/pull/189488) - \[flutter_tools\] Use resolved application ID for app link settings - **Ready for review**
+- [`flutter/flutter#186174`](https://github.com/flutter/flutter/pull/186174) - Use null-aware elements in NavigationRail - **Draft**
+<!-- FLUTTER_PRS:END -->
+
+Dedicated profile: [Flutter contributor from Pakistan](https://faheemabbas766.github.io/flutter-contributors-pakistan.html)
+
 > I contribute where the review bar is public, the standards are real, and the impact is visible.
 
 ---
