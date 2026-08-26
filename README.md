@@ -36,11 +36,12 @@ I am a Flutter contributor from Pakistan with merged pull requests in Flutter ec
 <!-- FLUTTER_PRS:START -->
 <!-- This section is maintained by scripts/update_flutter_prs.py. -->
 
-![Flutter Merged](https://img.shields.io/badge/Flutter%20Merged-6-0f172a?style=flat-square&labelColor=0ea5e9)
-![Flutter Active](https://img.shields.io/badge/Flutter%20Active-4-0f172a?style=flat-square&labelColor=f59e0b)
+![Flutter Merged](https://img.shields.io/badge/Flutter%20Merged-7-0f172a?style=flat-square&labelColor=0ea5e9)
+![Flutter Active](https://img.shields.io/badge/Flutter%20Active-3-0f172a?style=flat-square&labelColor=f59e0b)
 
 ### Merged Contributions
 
+- [`flutter/flutter#189488`](https://github.com/flutter/flutter/pull/189488) - \[flutter_tools\] Use resolved application ID for app link settings
 - [`flutter/core-packages#22`](https://github.com/flutter/core-packages/pull/22) - \[vector_math\] Document geometry filter APIs
 - [`flutter/flutter#188372`](https://github.com/flutter/flutter/pull/188372) - Parse AndroidX property in gradle.properties
 - [`flutter/core-packages#12`](https://github.com/flutter/core-packages/pull/12) - Document vector_math Plane API
@@ -50,7 +51,6 @@ I am a Flutter contributor from Pakistan with merged pull requests in Flutter ec
 
 ### Active Contributions
 
-- [`flutter/flutter#189488`](https://github.com/flutter/flutter/pull/189488) - \[flutter_tools\] Use resolved application ID for app link settings - **Ready for review**
 - [`flutter/packages#12316`](https://github.com/flutter/packages/pull/12316) - \[tool\] Enforce README package table order - **Ready for review**
 - [`flutter/packages#12315`](https://github.com/flutter/packages/pull/12315) - \[google_maps_flutter\] Document tile cache flicker - **Ready for review**
 - [`flutter/flutter#186174`](https://github.com/flutter/flutter/pull/186174) - Use null-aware elements in NavigationRail - **Draft**
